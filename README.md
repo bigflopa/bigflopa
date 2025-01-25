@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%15F4EE&lines=Big+violet+kapibara+Sany)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%15F4EE&lines=Big+purple+kapibara+Sany)](https://git.io/typing-svg)
 
 <!--
 **bigflopa/bigflopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
