@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%15F4EE&lines=Big+purple+kapibara+Sany)](https://git.io/typing-svg)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bigflopa)](https://git.io/streak-stats)
 <!--
 **bigflopa/bigflopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
