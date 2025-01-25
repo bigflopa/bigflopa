@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%15F4EE&lines=Big+purple+kapibara+Sany)](https://git.io/typing-svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bigflopa)](https://git.io/streak-stats)
-<!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 **bigflopa/bigflopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
